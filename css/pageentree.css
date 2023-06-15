@@ -1,0 +1,21 @@
+/* 
+    Created on : 27 avr. 2023, 13:19:28
+    Author     : sdayar
+   description : css de la page d'entrée
+*/
+body{
+    margin:0;
+}
+video{
+   width:1538px;
+   height:auto;
+   position:fixed;
+   filter:blur(3px);
+   z-index:-1;
+}
+h1{
+    color:white;
+}
+
+
+

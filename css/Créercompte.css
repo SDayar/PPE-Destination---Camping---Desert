@@ -1,0 +1,45 @@
+
+/* 
+    Created on : 24 janv. 2023, 13:42:40
+    Author     : sdayar
+    description:Css de créercompte
+*/
+body{
+   padding:0px;
+   margin:0px;
+   background-image:url(../images/Créercompte.jpg);
+   background-size:cover;
+ }
+article{
+    position:absolute;
+    top:1px;
+    width:5%;
+    background-color:lightsalmon;
+    height:38px;
+    font-family:math;
+    
+}
+article p a{
+    position:absolute;
+    top:1px;
+    text-decoration:none;
+    color:white;
+    font-size:15px;
+}
+article p:first-letter{
+    font-family:cursive;
+}
+ .Boite{
+     border:2px solid white;
+     border-radius:5px;
+     width:400px;
+     height:220px;
+     background-color:rgba(0, 0, 0, 0.09);
+    }
+    input[type=submit]:first-child{
+     margin-top:20px;   
+    }
+    input[type=password]{
+        margin-top:10px;
+    }
+ 
